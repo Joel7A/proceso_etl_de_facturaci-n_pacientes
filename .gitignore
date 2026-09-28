@@ -1,0 +1,35 @@
+
+# Entornos virtuales (el tuyo actual y variantes comunes)
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de distribución y construcción (por si empaquetas tu código)
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# Configuraciones de editores de código (opcional, como VS Code)
+.vscode/
+.idea/
